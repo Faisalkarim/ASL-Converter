@@ -1,0 +1,39 @@
+C:\Users\ASUS\source\repos\picture box\picture box\bin\Debug\picture box.exe.config
+C:\Users\ASUS\source\repos\picture box\picture box\bin\Debug\picture box.exe
+C:\Users\ASUS\source\repos\picture box\picture box\bin\Debug\picture box.pdb
+C:\Users\ASUS\source\repos\picture box\picture box\bin\Debug\picture box.xml
+C:\Users\ASUS\source\repos\picture box\picture box\obj\Debug\picture box.vbprojAssemblyReference.cache
+C:\Users\ASUS\source\repos\picture box\picture box\obj\Debug\picture_box.Form1.resources
+C:\Users\ASUS\source\repos\picture box\picture box\obj\Debug\picture_box.Resources.resources
+C:\Users\ASUS\source\repos\picture box\picture box\obj\Debug\picture box.vbproj.GenerateResource.cache
+C:\Users\ASUS\source\repos\picture box\picture box\obj\Debug\picture box.vbproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\picture box\picture box\obj\Debug\picture box.exe
+C:\Users\ASUS\source\repos\picture box\picture box\obj\Debug\picture box.xml
+C:\Users\ASUS\source\repos\picture box\picture box\obj\Debug\picture box.pdb
+C:\Users\ASUS\source\repos\picture box\picture box\obj\Debug\picture_box.Form2.resources
+C:\Users\ASUS\source\repos\ASL TOOLKIT\ASL TOOLKIT\bin\Debug\picture box.exe.config
+C:\Users\ASUS\source\repos\ASL TOOLKIT\ASL TOOLKIT\bin\Debug\picture box.exe
+C:\Users\ASUS\source\repos\ASL TOOLKIT\ASL TOOLKIT\bin\Debug\picture box.pdb
+C:\Users\ASUS\source\repos\ASL TOOLKIT\ASL TOOLKIT\bin\Debug\picture box.xml
+C:\Users\ASUS\source\repos\ASL TOOLKIT\ASL TOOLKIT\obj\Debug\ASL TOOLKIT.vbprojAssemblyReference.cache
+C:\Users\ASUS\source\repos\ASL TOOLKIT\ASL TOOLKIT\obj\Debug\picture_box.Form1.resources
+C:\Users\ASUS\source\repos\ASL TOOLKIT\ASL TOOLKIT\obj\Debug\picture_box.Form2.resources
+C:\Users\ASUS\source\repos\ASL TOOLKIT\ASL TOOLKIT\obj\Debug\picture_box.Resources.resources
+C:\Users\ASUS\source\repos\ASL TOOLKIT\ASL TOOLKIT\obj\Debug\ASL TOOLKIT.vbproj.GenerateResource.cache
+C:\Users\ASUS\source\repos\ASL TOOLKIT\ASL TOOLKIT\obj\Debug\ASL TOOLKIT.vbproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\ASL TOOLKIT\ASL TOOLKIT\obj\Debug\picture box.exe
+C:\Users\ASUS\source\repos\ASL TOOLKIT\ASL TOOLKIT\obj\Debug\picture box.xml
+C:\Users\ASUS\source\repos\ASL TOOLKIT\ASL TOOLKIT\obj\Debug\picture box.pdb
+C:\Users\ASUS\source\repos\picturebox\picturebox\bin\Debug\picture box.exe.config
+C:\Users\ASUS\source\repos\picturebox\picturebox\bin\Debug\picture box.exe
+C:\Users\ASUS\source\repos\picturebox\picturebox\bin\Debug\picture box.pdb
+C:\Users\ASUS\source\repos\picturebox\picturebox\bin\Debug\picture box.xml
+C:\Users\ASUS\source\repos\picturebox\picturebox\obj\Debug\picture_box.Form1.resources
+C:\Users\ASUS\source\repos\picturebox\picturebox\obj\Debug\picture_box.Form2.resources
+C:\Users\ASUS\source\repos\picturebox\picturebox\obj\Debug\picture_box.Resources.resources
+C:\Users\ASUS\source\repos\picturebox\picturebox\obj\Debug\picturebox.vbproj.GenerateResource.cache
+C:\Users\ASUS\source\repos\picturebox\picturebox\obj\Debug\picturebox.vbproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\picturebox\picturebox\obj\Debug\picture box.exe
+C:\Users\ASUS\source\repos\picturebox\picturebox\obj\Debug\picture box.xml
+C:\Users\ASUS\source\repos\picturebox\picturebox\obj\Debug\picture box.pdb
+C:\Users\ASUS\source\repos\picturebox\picturebox\obj\Debug\picturebox.vbprojAssemblyReference.cache
