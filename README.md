@@ -1,2 +1,2 @@
 # ASL-Converter
-My first Project. American Sign language - English &amp; English-American sign language converter
+My first Project. American Sign language to English &amp; English to American sign language converter
