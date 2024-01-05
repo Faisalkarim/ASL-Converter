@@ -7,5 +7,5 @@ My first Project. American Sign Language to English &amp; English to American Si
 ![Front Page](eng.png)
 
 ## App installation
-You can download the app from [here]([https://sorting-visualizer-faisal.netlify.app/](https://drive.google.com/file/d/1NKFkICj9QGt2mqFFiQ21NMF5DKUDSDul/view?usp=sharing)https://drive.google.com/file/d/1NKFkICj9QGt2mqFFiQ21NMF5DKUDSDul/view?usp=sharing).
+You can download the app from [here](https://drive.google.com/file/d/1NKFkICj9QGt2mqFFiQ21NMF5DKUDSDul/view?usp=sharing).
 
